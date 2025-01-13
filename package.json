@@ -1,4 +1,4 @@
-{
+{Jothan
  "name": "BLUEXDEMON-V4",
  "version": "4.3.0",
  "description": "Simple whatsapp bot with multi device.",
@@ -6,9 +6,7 @@
  "type": "commonjs",
  "directories": {
   "lib": "lib",
-  "message": "message"
- },
- "scripts": {https://github.com/millia123773/BLUEXDEMON-V4.3.0.git
+  "message": 
   "start": "node index.js"
  },
  "author": "BLUE",
