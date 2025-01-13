@@ -8,7 +8,7 @@
   "lib": "lib",
   "message": "message"
  },
- "scripts": {
+ "scripts": {https://github.com/millia123773/BLUEXDEMON-V4.3.0.git
   "start": "node index.js"
  },
  "author": "BLUE",
